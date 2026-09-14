@@ -1,0 +1,21 @@
+# Python environment & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Environment variables & keys
+.env
+.env.local
+
+# Database files
+*.sqlite3
+*.db
+
+# Node / Frontend build outputs
+node_modules/
+dist/
+build/
+.DS_Store
