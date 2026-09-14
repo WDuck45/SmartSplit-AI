@@ -1,0 +1,8 @@
+cat <<EOT > backend/requirements.txt
+fastapi
+uvicorn
+mysql-connector-python
+google-genai
+pydantic
+python-multipart
+EOT
